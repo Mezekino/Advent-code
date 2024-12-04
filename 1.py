@@ -2,7 +2,6 @@ list1=[]
 list2=[]
 list3=[]
 somma=0
-
 input=open("input.txt","r").readlines()
 
 for element in input:
